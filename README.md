@@ -3,7 +3,7 @@ Repository for Information Visualization Studio - Sem 1 - Cycle 1 - 2016-2017. T
 
 ## Unit Plan - Outline
 
-**WEEK ONE**
+### **WEEK ONE**
 **Day 1 	- 01 Aug**
 
 * Introduction
@@ -14,7 +14,7 @@ Repository for Information Visualization Studio - Sem 1 - Cycle 1 - 2016-2017. T
 * Assignment 1 - Discussion, peer review and feedback
 * Assignment 2
 
-**WEEK TWO**
+### **WEEK TWO**
 **Day 3 	- 08 Aug**
 Assignment 2 - Discussion, peer review and feedback
 Show and tell: Game data - quantifying play
@@ -26,7 +26,7 @@ _**Assessment 1**_
 Show and tell: Visualizing games and play
 Assignment 3: Presenting data, exploration
 
-**WEEK THREE**
+### **WEEK THREE**
 **Day 5  - 15 Aug**
 
 * Public Holiday
@@ -39,7 +39,7 @@ Assignment 3: Presenting data, exploration
 
 _**Assessment 2**_
 
-**WEEK FOUR**
+### **WEEK FOUR**
 **Day 7 - 22 Aug**
 
 * Master Class: Guest
@@ -50,7 +50,7 @@ _**Assessment 2**_
 * Assignment 4: Presentation of first draft - discussion, peer review and feedback
 * Refining the visualization - guided
 
-**WEEK FIVE**
+### **WEEK FIVE**
 
 * Day 9 - 29 Aug
 * Assignment 2: Presentation to class - discussion, peer review, feedback and polish
