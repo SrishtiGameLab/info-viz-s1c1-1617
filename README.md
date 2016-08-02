@@ -9,10 +9,12 @@ Repository for Information Visualization Studio - Sem 1 - Cycle 1 - 2016-2017. T
 * Introduction
 * Assignment 1 
 
+
 **Day 2 	- 02 Aug**
 
 * Assignment 1 - Discussion, peer review and feedback
 * Assignment 2
+
 
 ### **WEEK TWO**
 **Day 3 	- 08 Aug**
@@ -20,22 +22,27 @@ Assignment 2 - Discussion, peer review and feedback
 Show and tell: Game data - quantifying play
 Assignment 3
 
+
 _**Assessment 1**_
+
 
 **Day 4 	- 09 Aug**
 Show and tell: Visualizing games and play
 Assignment 3: Presenting data, exploration
+
 
 ### **WEEK THREE**
 **Day 5  - 15 Aug**
 
 * Public Holiday
 
+
 **Day 6 - 16 Aug**
 
 * Assignment 3: Present visualizations, discussion, peer review and feedback
 * Master Class: Guest - quantified self
 * Assignment 4
+
 
 _**Assessment 2**_
 
@@ -45,21 +52,26 @@ _**Assessment 2**_
 * Master Class: Guest
 * Assignment 4: Presentation of data sets and possible visualization ideas
 
+
 **Day 8 	- 23 Aug**
 
 * Assignment 4: Presentation of first draft - discussion, peer review and feedback
 * Refining the visualization - guided
 
-### **WEEK FIVE**
 
-* Day 9 - 29 Aug
-* Assignment 2: Presentation to class - discussion, peer review, feedback and polish
+### **WEEK FIVE**
+**Day 9 - 29 Aug**
+
+* Assignment 4: Presentation to class - discussion, peer review, feedback and polish
+
 
 _**Assessment 3**_
+
 
 **Day 10	- 30 Aug**
 
 * Final presentation
+
 
 ## Note
 
