@@ -77,4 +77,4 @@ _**Assessment 3**_
 
 ## Note
 
-The course structure under the MIT License. Please check the work by students linked in issues for their respective licenses before using it.
+Please read the license document on how to use all commited files. Please check the work by students linked in issues for their respective licenses before using it.
