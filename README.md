@@ -18,17 +18,19 @@ Repository for Information Visualization Studio - Sem 1 - Cycle 1 - 2016-2017. T
 
 ### **WEEK TWO**
 **Day 3 	- 08 Aug**
-Assignment 2 - Discussion, peer review and feedback
-Show and tell: Game data - quantifying play
-Assignment 3
+
+* Assignment 2 - Discussion, peer review and feedback
+* Show and tell: Game data - quantifying play
+* Assignment 3
 
 
 _**Assessment 1**_
 
 
 **Day 4 	- 09 Aug**
-Show and tell: Visualizing games and play
-Assignment 3: Presenting data, exploration
+
+* Show and tell: Visualizing games and play
+* Assignment 3: Presenting data, exploration
 
 
 ### **WEEK THREE**
