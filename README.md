@@ -7,13 +7,13 @@ Repository for Information Visualization Studio - Sem 1 - Cycle 1 - 2016-2017. T
 **Day 1 	- 01 Aug**
 
 * Introduction
-* Assignment 1 
+* [Assignment 1](https://github.com/SrishtiGameLab/info-viz-s1c1-1617/issues/1)
 
 
 **Day 2 	- 02 Aug**
 
 * Assignment 1 - Discussion, peer review and feedback
-* Assignment 2
+* [Assignment 2](https://github.com/SrishtiGameLab/info-viz-s1c1-1617/issues/2)
 
 
 ### **WEEK TWO**
